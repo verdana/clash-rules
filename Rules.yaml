@@ -1,0 +1,69 @@
+# Profile Enhancement Merge Template for Clash Verge
+
+rules:
+  # 用于下载下面的规则文件
+  - DOMAIN-SUFFIX,jsdelivr.net,Proxies
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxies
+
+  - RULE-SET,private,DIRECT
+  - RULE-SET,reject,REJECT
+  
+  - RULE-SET,Apple,DIRECT
+  - RULE-SET,iCloud,DIRECT
+
+  - RULE-SET,Google,Proxies
+  - RULE-SET,Github,Proxies
+  - RULE-SET,Others,Proxies
+
+  - RULE-SET,AI/Cursor,US
+  - RULE-SET,AI/Windsurf,US
+  - RULE-SET,AI/Gemini,US
+
+  - GEOIP,LAN,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT,no-resolve
+
+rule-anchor:
+  domain: &domain {type: http, interval: 86400, behavior: domain, format: yaml}
+  classical: &classical {type: http, interval: 86400, behavior: classical, format: yaml}
+
+rule-providers:
+  private:
+    <<: *domain
+    path: ./loyalsoldier/private.yaml
+    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+  reject:
+    <<: *domain
+    path: ./loyalsoldier/reject.yaml
+    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+  Apple:
+    <<: *domain
+    path: ./loyalsoldier/apple.yaml
+    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
+  iCloud:
+    <<: *domain
+    path: ./loyalsoldier/icloud.yaml
+    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
+  Google:
+    <<: *classical
+    path: ./Rules/Google.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Google.yaml"
+  Github:
+    <<: *classical
+    path: ./Rules/Github.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Github.yaml"
+  AI/Cursor:
+    <<: *classical
+    path: ./Rules/Cursor.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Cursor.yaml"
+  AI/Windsurf:
+    <<: *classical
+    path: ./Rules/Windsurf.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Windsurf.yaml"
+  AI/Gemini:
+    <<: *classical
+    path: ./Rules/Gemini.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Gemini.yaml"
+  Others:
+    <<: *classical
+    path: ./Rules/Others.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Others.yaml"
