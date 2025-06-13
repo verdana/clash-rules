@@ -1,0 +1,43 @@
+payload:
+  - DOMAIN-SUFFIX,114837322.xyz
+  - DOMAIN-SUFFIX,b-cdn.net
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,phundrak.com
+  - DOMAIN-SUFFIX,pixai.art
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,withgoogle.com
+
+  # Dev
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,devin.ai
+  - DOMAIN-SUFFIX,devv.ai
+  - DOMAIN-SUFFIX,gentoo.org
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,poe.com
+
+  # Twitter/X
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
+
+  # Wowhead
+  - DOMAIN-SUFFIX,wowhead.com
+  - DOMAIN-SUFFIX,zamimg.com
+
