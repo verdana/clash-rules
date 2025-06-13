@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,devin.ai
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,withgoogle.com
+  - DOMAIN-SUFFIX,gentoo.org
+  
+  # Twitter/X
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
