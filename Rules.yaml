@@ -15,9 +15,10 @@ rules:
   - RULE-SET,Github,Proxies
   - RULE-SET,Others,Proxies
 
-  - RULE-SET,AI/Cursor,US
-  - RULE-SET,AI/Windsurf,US
-  - RULE-SET,AI/Gemini,US
+  - RULE-SET,AI/Claude,JP
+  - RULE-SET,AI/Cursor,JP
+  - RULE-SET,AI/Gemini,JP
+  - RULE-SET,AI/Windsurf,JP
 
   - GEOIP,LAN,DIRECT,no-resolve
   - GEOIP,CN,DIRECT,no-resolve
@@ -55,14 +56,18 @@ rule-providers:
     <<: *classical
     path: ./Rules/Cursor.yaml
     url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Cursor.yaml"
-  AI/Windsurf:
+  AI/Claude:
     <<: *classical
-    path: ./Rules/Windsurf.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Windsurf.yaml"
+    path: ./Rules/Claude.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Claude.yaml"
   AI/Gemini:
     <<: *classical
     path: ./Rules/Gemini.yaml
     url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Gemini.yaml"
+  AI/Windsurf:
+    <<: *classical
+    path: ./Rules/Windsurf.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Windsurf.yaml"
   Others:
     <<: *classical
     path: ./Rules/Others.yaml
