@@ -9,19 +9,24 @@ payload:
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,etahub.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,leduocdn.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,npmmirror.com
-  - DOMAIN-SUFFIX,nycvod.com
+  - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phundrak.com
   - DOMAIN-SUFFIX,pixai.art
+  - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
@@ -44,3 +49,7 @@ payload:
   - DOMAIN-SUFFIX,wowhead.com
   - DOMAIN-SUFFIX,zamimg.com
 
+  # nycvod
+  - DOMAIN-SUFFIX,nycvod.com
+  - DOMAIN-SUFFIX,in1eab44tnda.com
+  - DOMAIN-SUFFIX,7tr9h44tq3km.com
