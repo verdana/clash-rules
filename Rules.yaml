@@ -1,24 +1,20 @@
 # Profile Enhancement Merge Template for Clash Verge
 
 rules:
-  # 用于下载下面的规则文件
-  - DOMAIN-SUFFIX,jsdelivr.net,Proxies
-  - DOMAIN-SUFFIX,githubusercontent.com,Proxies
-
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   
+  - RULE-SET,AI/Claude,TW
+  - RULE-SET,AI/Cursor,TW
+  - RULE-SET,AI/Gemini,JP
+  - RULE-SET,AI/Windsurf,TW
+
   - RULE-SET,Apple,DIRECT
   - RULE-SET,iCloud,DIRECT
 
-  - RULE-SET,Google,Proxies
+  - RULE-SET,Google,JP
   - RULE-SET,Github,Proxies
   - RULE-SET,Others,Proxies
-
-  - RULE-SET,AI/Claude,JP
-  - RULE-SET,AI/Cursor,JP
-  - RULE-SET,AI/Gemini,JP
-  - RULE-SET,AI/Windsurf,JP
 
   - GEOIP,LAN,DIRECT,no-resolve
   - GEOIP,CN,DIRECT,no-resolve
@@ -72,3 +68,4 @@ rule-providers:
     <<: *classical
     path: ./Rules/Others.yaml
     url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Others.yaml"
+

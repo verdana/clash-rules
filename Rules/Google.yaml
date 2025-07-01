@@ -167,10 +167,14 @@ payload:
   - DOMAIN-SUFFIX,google.ws
   
   - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,chromium.org
   - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,google.dev
+  - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,goo.gl
+  - DOMAIN-SUFFIX,goo.gle
   - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleflights.com
@@ -182,3 +186,4 @@ payload:
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtubeeducation.com
   - DOMAIN-SUFFIX,ytimg.com
+
