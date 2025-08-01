@@ -166,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,google.tt
   - DOMAIN-SUFFIX,google.ws
   
+  - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,chromium.org
