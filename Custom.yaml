@@ -1,20 +1,16 @@
 # Profile Enhancement Merge Template for Clash Verge
 
 rules:
+  - DOMAIN-KEYWORD,zhuiyi,DIRECT
+
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
-  
-  - RULE-SET,AI/Claude,TW
-  - RULE-SET,AI/Cursor,TW
-  - RULE-SET,AI/Gemini,JP
-  - RULE-SET,AI/Windsurf,TW
 
   - RULE-SET,Apple,DIRECT
   - RULE-SET,iCloud,DIRECT
 
-  - RULE-SET,Google,JP
-  - RULE-SET,Github,Proxies
-  - RULE-SET,Others,Proxies
+  - RULE-SET,Google,Proxies
+  - RULE-SET,Common,Proxies
 
   - GEOIP,LAN,DIRECT,no-resolve
   - GEOIP,CN,DIRECT,no-resolve
@@ -44,28 +40,7 @@ rule-providers:
     <<: *classical
     path: ./Rules/Google.yaml
     url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Google.yaml"
-  Github:
+  Common:
     <<: *classical
-    path: ./Rules/Github.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Github.yaml"
-  AI/Cursor:
-    <<: *classical
-    path: ./Rules/Cursor.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Cursor.yaml"
-  AI/Claude:
-    <<: *classical
-    path: ./Rules/Claude.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Claude.yaml"
-  AI/Gemini:
-    <<: *classical
-    path: ./Rules/Gemini.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Gemini.yaml"
-  AI/Windsurf:
-    <<: *classical
-    path: ./Rules/Windsurf.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Windsurf.yaml"
-  Others:
-    <<: *classical
-    path: ./Rules/Others.yaml
-    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Others.yaml"
-
+    path: ./Rules/Common.yaml
+    url: "https://raw.githubusercontent.com/verdana/clash-rules/refs/heads/main/Rules/Common.yaml"
