@@ -168,7 +168,9 @@ payload:
   
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,blog.google
+  - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,chromium.org
+  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,goo.gl
@@ -186,4 +188,3 @@ payload:
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtubeeducation.com
   - DOMAIN-SUFFIX,ytimg.com
-

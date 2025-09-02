@@ -45,14 +45,16 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,t.co
 
-  # AI/Development/Geek
+  # Development/Geek
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,cdn.usefathom.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,codeium.com
@@ -76,9 +78,12 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gradle.com
+  - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,poe.com
@@ -86,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,workos.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,windows.net
 
   # Game
   - DOMAIN-SUFFIX,gamer.com.tw
