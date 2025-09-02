@@ -45,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,t.co
 
-  # AI/Development/Geek
+  # Development/Geek
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,workos.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,windows.net
 
   # Game
   - DOMAIN-SUFFIX,gamer.com.tw
