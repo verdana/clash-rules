@@ -13,11 +13,16 @@ payload:
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,etahub.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,jsdelivr.net
@@ -35,15 +40,15 @@ payload:
   - DOMAIN-SUFFIX,realtek.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,waterfox.net
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,t.co
 
   # Development/Geek
   - DOMAIN-KEYWORD,colab
@@ -86,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,windsurf.com
@@ -95,8 +101,11 @@ payload:
 
   # Game
   - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,mmoui.com
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,wowhead.com
   - DOMAIN-SUFFIX,zamimg.com
