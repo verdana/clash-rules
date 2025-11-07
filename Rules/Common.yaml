@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,baseus.com
@@ -55,7 +57,6 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-SUFFIX,alpinelinux.org
-  - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,cdn.usefathom.com
@@ -86,6 +87,8 @@ payload:
   - DOMAIN-SUFFIX,gradle.com
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,marked.js.org
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,perplexity.ai
@@ -100,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,windows.net
 
   # Game
+  - DOMAIN-SUFFIX,fandom.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,mmoui.com
   - DOMAIN-SUFFIX,patreon.com
