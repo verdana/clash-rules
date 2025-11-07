@@ -1,10 +1,13 @@
 payload:
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,baseus.com
   - DOMAIN-SUFFIX,bootstrap.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,crates.io
@@ -24,13 +27,17 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,leduocdn.com
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,mermaid.ink
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmmirror.com
+  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phundrak.com
@@ -50,30 +57,42 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
 
-  # Development/Geek
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,alpinelinux.org
-  - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,apache.org
-  - DOMAIN-SUFFIX,cdn.usefathom.com
+  # AI
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,codeiumdata.com
-  - DOMAIN-SUFFIX,corretto.aws
-  - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,devv.ai
+  - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,firecrawl.dev
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,jina.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,v0.app
+  - DOMAIN-SUFFIX,vusercontent.net
+  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,x.ai
+
+  # Development/Geek
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,alpinelinux.org
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,cdn.usefathom.com
+  - DOMAIN-SUFFIX,corretto.aws
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,generativeai.google
@@ -83,23 +102,30 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,gradle.com
   - DOMAIN-SUFFIX,gradle.org
-  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,marked.js.org
+  - DOMAIN-SUFFIX,mdxeditor.dev
   - DOMAIN-SUFFIX,medium.com
-  - DOMAIN-SUFFIX,openrouter.ai
-  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,obsidian.md
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pkgbuild.com
-  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,tensorflow.org
-  - DOMAIN-SUFFIX,windsurf.com
-  - DOMAIN-SUFFIX,workos.com
-  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,webcrumbs.me
   - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,wsimg.com
 
   # Game
+  - DOMAIN-SUFFIX,fandom.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,mmoui.com
   - DOMAIN-SUFFIX,patreon.com
@@ -108,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,wowhead.com
+  - DOMAIN-SUFFIX,wowinterface.com
   - DOMAIN-SUFFIX,zamimg.com
 
   # nycvod
