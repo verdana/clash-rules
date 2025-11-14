@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,leduocdn.com
