@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,devv.ai
+  - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,generativeai.google
