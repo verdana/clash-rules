@@ -118,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,wowhead.com
+  - DOMAIN-SUFFIX,wowinterface.com
   - DOMAIN-SUFFIX,zamimg.com
 
   # nycvod
