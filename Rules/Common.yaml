@@ -101,6 +101,7 @@ payload:
   - DOMAIN-SUFFIX,logseq.com
   - DOMAIN-SUFFIX,marked.js.org
   - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,obsidian.md
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pkgbuild.com
