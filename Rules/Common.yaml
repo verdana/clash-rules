@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,v0.app
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,x.ai
 
