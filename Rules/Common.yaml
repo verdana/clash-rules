@@ -111,6 +111,9 @@ payload:
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,webcrumbs.me
+  - DOMAIN-SUFFIX,wsimg.com
+  - DOMAIN-SUFFIX,godaddy.com
 
   # Game
   - DOMAIN-SUFFIX,fandom.com
