@@ -53,6 +53,9 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,live.com
 
   # AI
   - DOMAIN-SUFFIX,chatgpt.com
