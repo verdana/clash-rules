@@ -111,7 +111,7 @@ payload:
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pkgbuild.com
-  - DOMAIN-SUFFIX,python.com
+  - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,workos.com
