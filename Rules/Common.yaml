@@ -31,10 +31,13 @@ payload:
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,leduocdn.com
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,mermaid.ink
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmmirror.com
+  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phundrak.com
@@ -53,9 +56,6 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,live.com
 
   # AI
   - DOMAIN-SUFFIX,chatgpt.com
@@ -102,6 +102,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,gradle.com
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,logseq.com
@@ -113,11 +114,11 @@ payload:
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,tensorflow.org
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,webcrumbs.me
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,workos.com
-  - DOMAIN-SUFFIX,webcrumbs.me
   - DOMAIN-SUFFIX,wsimg.com
-  - DOMAIN-SUFFIX,godaddy.com
 
   # Game
   - DOMAIN-SUFFIX,fandom.com
