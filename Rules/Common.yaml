@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,webcrumbs.me
