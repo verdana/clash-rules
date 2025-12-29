@@ -59,6 +59,8 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,astro-thai.com
+  - DOMAIN-SUFFIX.line.me
+  - DOMAIN-SUFFIX.line-apps.com
 
   # Development/Geek/AI
   - DOMAIN-KEYWORD,colab
@@ -146,4 +148,3 @@ payload:
   - DOMAIN-SUFFIX,hhwkhwrzth49.com
   - DOMAIN-SUFFIX,in1eab44tnda.com
   - DOMAIN-SUFFIX,wjmgijixqcbc.com
-
