@@ -59,8 +59,8 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,astro-thai.com
-  - DOMAIN-SUFFIX.line.me
-  - DOMAIN-SUFFIX.line-apps.com
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,line-apps.com
 
   # Development/Geek/AI
   - DOMAIN-KEYWORD,colab
@@ -135,6 +135,7 @@ payload:
   - DOMAIN-SUFFIX,mmoui.com
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
+  - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,twitch.tv
