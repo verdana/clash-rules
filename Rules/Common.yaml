@@ -62,6 +62,8 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,vsassets.io
+  - DOMAIN-SUFFIX,visualstudio.com
 
   # Development/Geek/AI
   - DOMAIN-KEYWORD,colab
