@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,baseus.com
