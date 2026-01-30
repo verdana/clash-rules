@@ -57,13 +57,14 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,waterfox.net
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,vsassets.io
-  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,y-too.com
 
   # Development/Geek/AI
   - DOMAIN-KEYWORD,colab
