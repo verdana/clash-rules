@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,firecrawl.dev
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,gentoo.org
+  - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubassets.com
