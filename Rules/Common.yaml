@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,nextjs.org
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,obsidian.md
+  - DOMAIN-SUFFIX,openclaw.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pinimg.com
