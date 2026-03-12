@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,y-too.com
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ghcr.io
 
   # Development/Geek/AI
   - DOMAIN-KEYWORD,colab
