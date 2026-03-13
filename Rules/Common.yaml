@@ -137,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,workos.com
   - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,notebooklm.google
 
   # Game
   - DOMAIN-SUFFIX,fandom.com
