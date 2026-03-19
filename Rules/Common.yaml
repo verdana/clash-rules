@@ -138,6 +138,7 @@ payload:
   - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,duckcoding.ai
   - DOMAIN-SUFFIX,duckcoding.com
 
   # Game
