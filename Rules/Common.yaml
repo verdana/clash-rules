@@ -140,6 +140,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,duckcoding.ai
   - DOMAIN-SUFFIX,duckcoding.com
+  - DOMAIN-SUFFIX,sharepoint.com
 
   # Game
   - DOMAIN-SUFFIX,fandom.com
