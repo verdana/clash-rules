@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
