@@ -142,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,duckcoding.ai
   - DOMAIN-SUFFIX,duckcoding.com
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,linux.do
 
   # Game
   - DOMAIN-SUFFIX,fandom.com
