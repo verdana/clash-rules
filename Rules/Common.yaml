@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,dailymotion.com
   - DOMAIN-SUFFIX,deepl.com
