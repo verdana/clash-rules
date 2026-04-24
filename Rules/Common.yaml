@@ -149,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
 
   # Game
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,fandom.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,mmoui.com
