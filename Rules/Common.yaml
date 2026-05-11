@@ -119,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,marked.js.org
   - DOMAIN-SUFFIX,mdxeditor.dev
   - DOMAIN-SUFFIX,medium.com
