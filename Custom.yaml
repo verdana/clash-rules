@@ -1,7 +1,6 @@
 # Profile Enhancement Merge Template for Clash Verge
 
 rules:
-  - DOMAIN-KEYWORD,zhuiyi,DIRECT
   - DOMAIN-SUFFIX,ibot.ai,DIRECT
 
   - RULE-SET,private,DIRECT
