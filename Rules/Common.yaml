@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditspace.com
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,twimg.com
@@ -141,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,ruby-lang.org
+  - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,v0.app
   - DOMAIN-SUFFIX,vercel.com
