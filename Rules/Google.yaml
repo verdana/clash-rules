@@ -180,6 +180,7 @@ payload:
   - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleblog.com
   - DOMAIN-SUFFIX,googleflights.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googlevideo.com
