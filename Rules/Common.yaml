@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,astro-thai.com
