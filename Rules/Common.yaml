@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,baseus.com
+  - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bootstrap.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,branch.io
