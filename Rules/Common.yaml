@@ -109,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,firecrawl.dev
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,gentoo.org
+  - DOMAIN-SUFFIX,getzep.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,huggingface.co
