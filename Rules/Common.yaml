@@ -94,6 +94,8 @@ payload:
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,corretto.aws
+  - DOMAIN-SUFFIX,cpuid-pro.com
+  - DOMAIN-SUFFIX,cpuid.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
