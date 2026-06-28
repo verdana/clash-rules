@@ -88,8 +88,8 @@ payload:
   - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chrome.com
-  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,codeiumdata.com
@@ -108,13 +108,13 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,duckcoding.ai
+  - DOMAIN-SUFFIX,duckcoding.com
   - DOMAIN-SUFFIX,firecrawl.dev
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,gentoo.org
   - DOMAIN-SUFFIX,getzep.com
   - DOMAIN-SUFFIX,git.io
-  - DOMAIN-SUFFIX,grokipedia.com
-  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubassets.com
@@ -125,20 +125,25 @@ payload:
   - DOMAIN-SUFFIX,gradle.com
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,jina.ai
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,logseq.com
   - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,marked.js.org
   - DOMAIN-SUFFIX,mdxeditor.dev
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,obsidian.md
-  - DOMAIN-SUFFIX,openclaw.ai
-  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,obsidian.md
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pinimg.com
@@ -149,23 +154,19 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,stability.ai
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,v0.app
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,vusercontent.net
+  - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,webcrumbs.me
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windsurf.com
-  - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,workos.com
   - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,notebooklm.google
-  - DOMAIN-SUFFIX,duckcoding.ai
-  - DOMAIN-SUFFIX,duckcoding.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,stability.ai
-  - DOMAIN-SUFFIX,linux.do
 
   # Game
   - DOMAIN-SUFFIX,freebuff.com
