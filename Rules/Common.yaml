@@ -128,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,isgen.ai
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,logseq.com
