@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,v0.app
   - DOMAIN-SUFFIX,vercel.com
