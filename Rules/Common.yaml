@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,etahub.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
