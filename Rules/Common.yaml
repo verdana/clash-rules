@@ -1,124 +1,61 @@
 payload:
-  - DOMAIN-SUFFIX,adobe.com
-  - DOMAIN-SUFFIX,adobe.io
-  - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,astro-thai.com
-  - DOMAIN-SUFFIX,azure.cn
-  - DOMAIN-SUFFIX,b-cdn.net
-  - DOMAIN-SUFFIX,bahamut.com.tw
-  - DOMAIN-SUFFIX,baseus.com
-  - DOMAIN-SUFFIX,bitwarden.com
-  - DOMAIN-SUFFIX,bootstrap.com
-  - DOMAIN-SUFFIX,bootstrapcdn.com
-  - DOMAIN-SUFFIX,branch.io
-  - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflareinsights.com
-  - DOMAIN-SUFFIX,cloudflarestorage.com
-  - DOMAIN-SUFFIX,crates.io
-  - DOMAIN-SUFFIX,dailymotion.com
-  - DOMAIN-SUFFIX,deepl.com
-  - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,discord.gg
-  - DOMAIN-SUFFIX,discordapp.net
-  - DOMAIN-SUFFIX,dmhy.org
-  - DOMAIN-SUFFIX,dropbox.com
-  - DOMAIN-SUFFIX,duckduckgo.com
-  - DOMAIN-SUFFIX,etahub.com
-  - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,flickr.com
-  - DOMAIN-SUFFIX,fiverr.com
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,threads.com
-  - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,gumroad.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,gvt3.com
-  - DOMAIN-SUFFIX,imagedelivery.net
-  - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,leduocdn.com
-  - DOMAIN-SUFFIX,ldstatic.com
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,line.me
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,mermaid.ink
-  - DOMAIN-SUFFIX,metacubex.one
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,nnyy.in
-  - DOMAIN-SUFFIX,npmjs.com
-  - DOMAIN-SUFFIX,npmmirror.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,page.link
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phundrak.com
-  - DOMAIN-SUFFIX,pixai.art
-  - DOMAIN-SUFFIX,polymarket.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pscp.tv
-  - DOMAIN-SUFFIX,quora.com
-  - DOMAIN-SUFFIX,realtek.com
-  - DOMAIN-SUFFIX,redd.it
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,redditmedia.com
-  - DOMAIN-SUFFIX,redditspace.com
-  - DOMAIN-SUFFIX,redditstatic.com
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,vsassets.io
-  - DOMAIN-SUFFIX,waterfox.net
-  - DOMAIN-SUFFIX,wikimedia.org
-  - DOMAIN-SUFFIX,wikipedia.org
-  - DOMAIN-SUFFIX,withgoogle.com
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,y-too.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,ghcr.io
-  - DOMAIN-SUFFIX,xbookcn.net
-
-  # Development/Geek/AI
+  # AI 服务
   - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,arena.ai
-  - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,chrome.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
-  - DOMAIN-SUFFIX,codeium.com
-  - DOMAIN-SUFFIX,codeiumdata.com
-  - DOMAIN-SUFFIX,corretto.aws
-  - DOMAIN-SUFFIX,cpuid-pro.com
-  - DOMAIN-SUFFIX,cpuid.com
-  - DOMAIN-SUFFIX,crates.io
-  - DOMAIN-SUFFIX,cursor-cdn.com
-  - DOMAIN-SUFFIX,cursor.com
-  - DOMAIN-SUFFIX,cursor.sh
-  - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,devv.ai
   - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,firecrawl.dev
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,getzep.com
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,isgen.ai
+  - DOMAIN-SUFFIX,jina.ai
+  - DOMAIN-SUFFIX,lovart.ai
+  - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,ollama.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pixai.art
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,x.ai
+
+  # 开发工具
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-SUFFIX,alpinelinux.org
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,bootstrap.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,codeiumdata.com
+  - DOMAIN-SUFFIX,corretto.aws
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,duckcoding.ai
   - DOMAIN-SUFFIX,duckcoding.com
-  - DOMAIN-SUFFIX,firecrawl.dev
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,gentoo.org
-  - DOMAIN-SUFFIX,getzep.com
+  - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
@@ -126,72 +63,149 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,gradle.com
   - DOMAIN-SUFFIX,gradle.org
-  - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,grokipedia.com
-  - DOMAIN-SUFFIX,huggingface.co
-  - DOMAIN-SUFFIX,isgen.ai
-  - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,logseq.com
-  - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,marked.js.org
   - DOMAIN-SUFFIX,mdxeditor.dev
-  - DOMAIN-SUFFIX,medium.com
-  - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,nextjs.org
-  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,obsidian.md
-  - DOMAIN-SUFFIX,ollama.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,npmmirror.com
   - DOMAIN-SUFFIX,opencode.ai
-  - DOMAIN-SUFFIX,openrouter.ai
-  - DOMAIN-SUFFIX,paddle.com
-  - DOMAIN-SUFFIX,perplexity.ai
-  - DOMAIN-SUFFIX,pinimg.com
-  - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,pkgbuild.com
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rust-lang.org
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,stability.ai
-  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,v0.app
+  - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,vusercontent.net
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,webcrumbs.me
-  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,workos.com
-  - DOMAIN-SUFFIX,wsimg.com
-  - DOMAIN-SUFFIX,x.ai
 
-  # Game
-  - DOMAIN-SUFFIX,freebuff.com
+  # 云服务与 CDN
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,b-cdn.net
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,cdn.usefathom.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,imagedelivery.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,ldstatic.com
+  - DOMAIN-SUFFIX,leduocdn.com
+  - DOMAIN-SUFFIX,page.link
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,wsimg.com
+
+  # 微软服务
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,sharepoint.com
+
+  # 社交媒体
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,flickr.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,line-apps.com
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditspace.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,threads.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,x.com
+
+  # 流媒体与视频
+  - DOMAIN-SUFFIX,dailymotion.com
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,youtu.be
+
+  # 游戏
+  - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,mmoui.com
-  - DOMAIN-SUFFIX,patreon.com
-  - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,wow-petguide.com
   - DOMAIN-SUFFIX,wowhead.com
   - DOMAIN-SUFFIX,wowinterface.com
-  - DOMAIN-SUFFIX,wow-petguide.com
   - DOMAIN-SUFFIX,zamimg.com
+
+  # 支付与电商
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,fiverr.com
+  - DOMAIN-SUFFIX,gumroad.com
+  - DOMAIN-SUFFIX,paddle.com
+  - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,stripe.com
+
+  # 硬件与驱动
+  - DOMAIN-SUFFIX,baseus.com
+  - DOMAIN-SUFFIX,cpuid-pro.com
+  - DOMAIN-SUFFIX,cpuid.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,realtek.com
+
+  # 成人内容
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,xbookcn.net
+
+  # 工具与其他
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,astro-thai.com
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,chrome.com
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,etahub.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,mermaid.ink
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,obsidian.md
+  - DOMAIN-SUFFIX,patreon.com
+  - DOMAIN-SUFFIX,patreonusercontent.com
+  - DOMAIN-SUFFIX,phundrak.com
+  - DOMAIN-SUFFIX,waterfox.net
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,withgoogle.com
+  - DOMAIN-SUFFIX,y-too.com
 
   # nycvod
   - DOMAIN-SUFFIX,nycvod.com
@@ -201,5 +215,6 @@ payload:
   - DOMAIN-SUFFIX,wjmgijixqcbc.com
 
   # nnyy.in
+  - DOMAIN-SUFFIX,nnyy.in
   - DOMAIN-SUFFIX,modujx14.com
   - DOMAIN-SUFFIX,jisuts.com
