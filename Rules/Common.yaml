@@ -164,8 +164,10 @@ payload:
 
   # 支付与电商
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,buymeacoffee.com
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,gumroad.com
+  - DOMAIN-SUFFIX,ko-fi.com
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,stripe.com
