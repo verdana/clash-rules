@@ -82,7 +82,6 @@ payload:
   - DOMAIN-SUFFIX,v0.app
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.com
-  - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,vusercontent.net
   - DOMAIN-SUFFIX,warp.dev
@@ -107,14 +106,16 @@ payload:
   - DOMAIN-SUFFIX,ldstatic.com
   - DOMAIN-SUFFIX,leduocdn.com
   - DOMAIN-SUFFIX,page.link
-  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,wsimg.com
 
   # 微软服务
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,office
+  - DOMAIN-KEYWORD,windows
   - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,visualstudio.com
 
   # 社交媒体
   - DOMAIN-SUFFIX,cdninstagram.com
