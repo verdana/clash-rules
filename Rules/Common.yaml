@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,visualstudio.com
 
   # 社交媒体
