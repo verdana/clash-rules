@@ -125,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,line-apps.com
@@ -190,6 +191,7 @@ payload:
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,astro-thai.com
+  - DOMAIN-SUFFIX,awstrack.me
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,chrome.com
   - DOMAIN-SUFFIX,dmhy.org
