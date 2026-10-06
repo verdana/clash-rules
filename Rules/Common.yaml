@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,stability.ai
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,volces.com
 
   # 开发工具
   - DOMAIN-KEYWORD,developerprofiles
